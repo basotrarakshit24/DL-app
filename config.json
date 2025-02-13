@@ -1,0 +1,25 @@
+{
+  "source": {
+    "is_advanced": true, 
+    "project_id": "01948c67-5457-70d6-a25d-8e8d2ce2fead",
+    "flow_path": "",
+    "sb_name": "DL_App",
+    "flow_name": "DL_Flow",
+    "org": "SolEng",
+    "workspace": "CI-CD",
+    "app_id": "5c9f81d7-e596-43a1-bf60-25783256821a",
+    "deployment_id": "0194fe3b-b79b-7c1e-920b-e18b2dc6fe6b",
+    "dependencies": []
+  },
+  "target": {
+    "org": "ib-internal",
+    "workspace": "SolEng_workspace"
+  },
+  "settings": {
+    "rebuild": true
+  },
+  "testing": {
+    "regression": {}
+  },
+  "release_notes": "DL test"
+}
